@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: center;
+    background-image: url(./img/Sekiro\ Shadows\ Die\ Twice\ 4k\ -\ Free\ 4k\ Wallpapers\ -\ 40_000+\ Free\ 4k\ Wallpapers\ -\ Pixel4k.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100vw;
+    justify-content: center;
+    
+}
+.retangulo{
+    background-color: rgb(201, 179, 179);
+    width: 70vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    
+}
+
+p{
+    margin-left: 15px;
+}
+
+img{
+    border-radius: 6px;
+}
